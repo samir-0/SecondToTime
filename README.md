@@ -1,2 +1,2 @@
-# SecondToTime
-Second  to hour , minute , second 
+# Second To Time
+Second   to  hour , minute , second 
